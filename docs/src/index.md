@@ -25,7 +25,7 @@ This work was developed using the following software and packages:
 
 - **Julia 1.11.2:** Programming language.
 - **ComplexMixtures v2.10.1:** For light-material distribution analysis.
-- **LaTeXStrings v1.4.0:** For incorporating LaTeX-style formatting in plot labbels and annotations. 
+- **LaTeXStrings v1.4.0:** For incorporating LaTeX-style formatting in plot labels and annotations. 
 - **PDBTools v2.1.2:** For handling and analyzing PDB files.
 - **Plots v1.40.9:** For generating high-quality visualizations.
 
