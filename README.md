@@ -1,4 +1,4 @@
-# Supplementary Information of _Lipid Architecture in the Zika Virus_
+# Supplementary Information of _Mapping the Microenvironment in Zika Virus Dynamics_
 
 [![Build Status](https://github.com/tcvmilvv/TavaresSonoraPantanoMartinez2025.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tcvmilvv/TavaresSonoraPantanoMartinez2025.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
@@ -14,7 +14,7 @@ Camila Assis **Tavares**<sup>1,2</sup>, Martín **Soñora**<sup>3</sup>, Sergio 
 _Corresponding author:_ <lmartine@unicamp.br>
 
 > 🔗 **Paper** <br>
->[**Lipid Architecture in the Zika Virus**](linkdoartigo.doi.com)
+>[**Mapping the Microenvironment in Zika Virus Dynamics**](linkdoartigo.doi.com)
 
 > The documentation is available at: https://tcvmilvv.github.io/TavaresSonoraPantanoMartinez2025.jl
 
