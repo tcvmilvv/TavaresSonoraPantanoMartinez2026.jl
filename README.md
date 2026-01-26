@@ -1,6 +1,6 @@
 # Supplementary Information of _Mapping the Microenvironment in Zika Virus Dynamics_
 
-[![Build Status](https://github.com/tcvmilvv/TavaresSonoraPantanoMartinez2025.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tcvmilvv/TavaresSonoraPantanoMartinez2025.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Build Status](https://github.com/tcvmilvv/TavaresSonoraPantanoMartinez2026.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tcvmilvv/TavaresSonoraPantanoMartinez2026.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
 Camila Assis **Tavares**<sup>1,2</sup>, Martín **Soñora**<sup>3</sup>, Sergio **Pantano**<sup>3</sup>, Leandro **Martínez**<sup>1,2</sup>
 
