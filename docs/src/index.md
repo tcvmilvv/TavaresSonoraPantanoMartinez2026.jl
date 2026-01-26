@@ -18,7 +18,7 @@ _Corresponding author:_ [lmartine@unicamp.br](mailto:lmartine@unicamp.br)
 ## Overview
 ![](assets/GA.png)
 
-This repository contains the supplementary data for the study titled *Mapping the Microenvironment in Zika Virus Dynamics*. The research explores the atomic-level distribution of the water molecules and ions within the Zika virus. By using coarse-grained simulations with the **[ComplexMixtures.jl](https://github.com/m3g/ComplexMixtures.jl)** package, the study analyzed the distribution patterns across the viral structure, revealing specific differences and affinities regarding light-materials.
+This repository hosts the supplementary material for the study *Mapping the Microenvironment in Zika Virus Dynamics*. The study examines how water molecules and ions are spatially organized within the Zika virus at atomic resolution. Coarse-grained molecular dynamics simulations, analyzed with the **[ComplexMixtures.jl](https://github.com/m3g/ComplexMixtures.jl)** framework, were employed to map these distributions across the viral structure, highlighting localized preferences and differential interactions with the surrounding molecular components.
 
 ## Dependencies
 This work was developed using the following software and packages:
