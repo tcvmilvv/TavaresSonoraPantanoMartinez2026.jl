@@ -1,5 +1,7 @@
 # Supplementary Figures
 
+This Supplementary Information provides an extended set of figures, and data visualizations  that support and expand upon the findings presented in the primary text. The materials compiled here include additional structural characterizations, time-resolved metrics, comparative plots across simulation conditions, and detailed depiction of interaction patterns that were referenced but not shown in full within the main article.
+
 ## Overview of Hydration Hotspots Over Time
 ```@raw html
 <figure style="text-align: center;">
@@ -50,7 +52,7 @@
 </figure>
 ```
 
-## Specificities of Interactions
+## Specificities per Residue
 
 
 ```@raw html
@@ -62,7 +64,7 @@
 
 ```@raw html
 <figure style="text-align: center;">
-  <img src="../figures/figures9.png" style="width:100%">
+  <img src="../figures/figures9.png" style="width:130%">
   <figcaption>Figure S9. Sequence-based DSSP map of chain M showing secondary-structure elements alongside the per-residue contribution of WT4 water molecules within 5 Å.</figcaption>
 </figure>
 ```
@@ -76,7 +78,7 @@
 
 ```@raw html
 <figure style="text-align: center;">
-  <img src="../figures/figures11.png" style="width:100%">
+  <img src="../figures/figures11.png" style="width:130%">
   <figcaption>Figure S11. Secondary-structure profile of chain O generated via DSSP, coupled with residue-level quantification of WT4 coordination (cutoff 5 Å).</figcaption>
 </figure>
 ```
