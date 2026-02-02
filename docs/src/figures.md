@@ -50,4 +50,40 @@
 </figure>
 ```
 
-## 
+## Specificities of Interactions
+
+
+```@raw html
+<figure style="text-align: center;">
+  <img src="../figures/figures8.gif" style="width:80%">
+  <figcaption>Figure S8. </figcaption>
+</figure>
+```
+
+```@raw html
+<figure style="text-align: center;">
+  <img src="../figures/figures9.gif" style="width:80%">
+  <figcaption>Figure S9. </figcaption>
+</figure>
+```
+
+```@raw html
+<figure style="text-align: center;">
+  <img src="../figures/figures10.gif" style="width:80%">
+  <figcaption>Figure S10. </figcaption>
+</figure>
+```
+
+```@raw html
+<figure style="text-align: center;">
+  <img src="../figures/figures11.gif" style="width:80%">
+  <figcaption>Figure S11. </figcaption>
+</figure>
+```
+
+```@raw html
+<figure style="text-align: center;">
+  <img src="../figures/figures12.gif" style="width:80%">
+  <figcaption>Figure S12. </figcaption>
+</figure>
+```
