@@ -56,9 +56,20 @@ This Supplementary Information provides an extended set of figures, and data vis
 
 
 ```@raw html
+<div style="
+    width: 100%;
+    max-height: 600px;   /* ajuste a altura máxima visível */
+    overflow: auto;      /* ativa barras de rolagem */
+    border: 1px solid #ccc;
+    padding: 4px;
+">
+  <img src="../figures/figures8.png" style="width:130%; display:block; margin:auto;">
+</div>
+
 <figure style="text-align: center;">
-  <img src="../figures/figures8.png" style="width:130%">
-  <figcaption>Figure S8. DSSP-based depiction of the envelope protein illustrating its secondary-structure elements together with the residue-specific SASA.</figcaption>
+  <figcaption>
+    Figure S8. DSSP-based depiction of the envelope protein illustrating its secondary-structure elements together with the residue-specific SASA.
+  </figcaption>
 </figure>
 ```
 
