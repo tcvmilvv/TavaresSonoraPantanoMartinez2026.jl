@@ -141,59 +141,8 @@ function closeZoom() {
   <img id="imgZoomLarge" src="">
 </div>
 
-<figure style="text-align: center; cursor: zoom-in;">
-<<<<<<< HEAD
-  <img src="../figures/figures9.png" style="width:100%;" onclick="openZoom(this.src)">
-=======
-  <img src="../figures/figures8.png" style="width:100%;" onclick="openZoom(this.src)">
-  <figcaption>Figure S8. DSSP-based depiction of the envelope protein illustrating its secondary-structure elements together with the residue-specific SASA.</figcaption>
-</figure>
-```
-
-```@raw html
-<style>
-/* Container escurecido */
-.img-zoom-overlay {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background: rgba(0,0,0,0.85);
-  justify-content: center;
-  align-items: center;
-  z-index: 9999;
-}
-
-/* Imagem ampliada */
-.img-zoom-overlay img {
-  max-width: 90%;
-  max-height: 90%;
-  border-radius: 6px;
-}
-</style>
-
-<script>
-function openZoom(src) {
-  const overlay = document.getElementById("imgZoomOverlay");
-  const zoomImg = document.getElementById("imgZoomLarge");
-  zoomImg.src = src;
-  overlay.style.display = "flex";
-}
-
-function closeZoom() {
-  document.getElementById("imgZoomOverlay").style.display = "none";
-}
-</script>
-
-<div id="imgZoomOverlay" class="img-zoom-overlay" onclick="closeZoom()">
-  <img id="imgZoomLarge" src="">
-</div>
-
 <figure style="text-align: center;">
   <img src="../figures/figures9.png" style="width:100%">
->>>>>>> origin/main
   <figcaption>Figure S9. Sequence-based DSSP map of chain M showing secondary-structure elements alongside the per-residue contribution of WT4 water molecules within 5 Å.</figcaption>
 </figure>
 ```
@@ -246,13 +195,8 @@ function closeZoom() {
   <img id="imgZoomLarge" src="">
 </div>
 
-<<<<<<< HEAD
-<figure style="text-align: center; cursor: zoom-in;">
-  <img src="../figures/figures11.png" style="width:100%;" onclick="openZoom(this.src)">
-=======
 <figure style="text-align: center;">
   <img src="../figures/figures11.png" style="width:100%">
->>>>>>> origin/main
   <figcaption>Figure S11. Secondary-structure profile of chain O generated via DSSP, coupled with residue-level quantification of WT4 coordination (cutoff 5 Å).</figcaption>
 </figure>
 ```
