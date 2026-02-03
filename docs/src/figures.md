@@ -142,7 +142,7 @@ function closeZoom() {
 </div>
 
 <figure style="text-align: center;">
-  <img src="../figures/figures9.png" style="width:100%">
+  <img src="../figures/figures9.png" style="width:100%;" onclick="openZoom(this.src)">
   <figcaption>Figure S9. Sequence-based DSSP map of chain M showing secondary-structure elements alongside the per-residue contribution of WT4 water molecules within 5 Å.</figcaption>
 </figure>
 ```
