@@ -196,7 +196,7 @@ function closeZoom() {
 </div>
 
 <figure style="text-align: center;">
-  <img src="../figures/figures11.png" style="width:100%">
+  <img src="../figures/figures11.png" style="width:100%;" onclick="openZoom(this.src)">
   <figcaption>Figure S11. Secondary-structure profile of chain O generated via DSSP, coupled with residue-level quantification of WT4 coordination (cutoff 5 Å).</figcaption>
 </figure>
 ```
